@@ -1,0 +1,16 @@
+AGE,HAS_JOB,OWNS_HOUSE,CREDIT_RATING,LOAN_APPROVAL
+Young,False,False,Fair,No
+Young,False,False,Good,No
+Young,True,False,Good,Yes
+Young,True,True,Fair,Yes
+Young,False,False,Fair,No
+Middle,False,False,Fair,No
+Middle,False,False,Good,No
+Middle,True,True,Good,Yes
+Middle,False,True,Excellent,Yes
+Middle,False,True,Excellent,Yes
+Old,False,True,Excellent,Yes
+Old,False,True,Good,Yes
+Old,True,False,Good,Yes
+Old,True,False,Excellent,Yes
+Old,False,False,Fair,No
